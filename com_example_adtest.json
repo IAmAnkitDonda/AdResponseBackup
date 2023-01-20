@@ -24,19 +24,20 @@
         "ad_version_code": 1
     },
     "google": {
-        "banner": "adx_grumfit_banner",
-        "interstitial": "adx_grumfit_inter",
-        "reward": "adx_grumfit_reward",
-        "native": "adx_grumfit_native",
-        "app_open": "adx_grumfit_app_open"
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "reward": "ca-app-pub-3940256099942544/5224354917",
+        "native": "ca-app-pub-3940256099942544/2247696110",
+        "reward_interstitial": "ca-app-pub-3940256099942544/5354046379",
+        "app_open": "ca-app-pub-3940256099942544/3419835294"
     },
     "facebook": {
-        "banner": "fb_banner",
-        "native": "fb_native",
-        "interstitial": "fb_inter",
-        "reward": "fb_reward",
-        "reward_interstitial": "fb_reward_inter",
-        "native_banner": "fb_native_banner",
-        "medium_rectangle": "fb_medium_rec"
+        "banner": "fb_test_banner",
+        "native": "fb_test_native",
+        "interstitial": "fb_test_interstitial",
+        "reward": "fb_test_reward",
+        "reward_interstitial": "fb_test_reward_interstitial",
+        "native_banner": "fb_test_native_banner",
+        "medium_rectangle": "fb_test_medium_rectangle"
     }
 }
