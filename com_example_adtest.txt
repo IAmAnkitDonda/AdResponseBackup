@@ -1,0 +1,43 @@
+{
+    "error": false,
+    "message": "Get Application Data successfully",
+    "application": {
+        "package": "com.example.adtest",
+        "url": "https://play.google.com/store/apps/details?id=co.reality.getrent",
+        "policy_link": "https://reality.co/legal/privacypolicy.html",
+        "version": "1.0.0",
+        "version_code": 1,
+        "is_force_update": true,
+        "is_ad_on": true,
+        "ad_priority": 1,
+        "is_splash_app_open": true,
+        "is_back_ads": true,
+        "is_mini_native": true,
+        "is_large_native": true,
+        "is_reward": true,
+        "is_exit_inter": true,
+        "native_bg_color": "FFF",
+        "native_text_color": "141414",
+        "inter_count": 3,
+        "back_count": 3,
+        "inter_loader_second": 1,
+        "ad_version_code": 1
+    },
+    "google": {
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "reward": "ca-app-pub-3940256099942544/5224354917",
+        "native": "ca-app-pub-3940256099942544/2247696110",
+        "reward_interstitial": "ca-app-pub-3940256099942544/5354046379",
+        "app_open": "ca-app-pub-3940256099942544/3419835294"
+    },
+    "facebook": {
+        "banner": "fb_test_banner",
+        "native": "fb_test_native",
+        "interstitial": "fb_test_interstitial",
+        "reward": "fb_test_reward",
+        "reward_interstitial": "fb_test_reward_interstitial",
+        "native_banner": "fb_test_native_banner",
+        "medium_rectangle": "fb_test_medium_rectangle"
+    }
+}
