@@ -16,11 +16,11 @@
         "is_large_native": true,
         "is_reward": true,
         "is_exit_inter": true,
-        "native_bg_color": "FFF",
-        "native_text_color": "141414",
-        "inter_count": 3,
+        "native_bg_color": "#FFFFFF",
+        "native_text_color": "#141414",
+        "inter_count": 5,
         "back_count": 3,
-        "inter_loader_second": 1,
+        "inter_loader_second": 0,
         "ad_version_code": 1
     },
     "google": {
