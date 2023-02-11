@@ -1,0 +1,46 @@
+{
+    "error": false,
+    "message": "Get Application Data successfully",
+    "application": {
+        "package": "com.cricketlive.streamind",
+        "url": "https://play.google.com/store/apps/details?id=com.cricketlive.streamind",
+        "policy_link": "https://learn-frenchby.blogspot.com/2023/02/privacy-policy.html",
+        "version": "1.0.0",
+        "version_code": 1,
+        "is_force_update": true,
+        "is_ad_on": false,
+        "ad_priority": 1,
+        "is_splash_app_open": true,
+        "is_back_ads": true,
+        "is_mini_native": true,
+        "is_large_native": true,
+        "is_reward": true,
+        "is_exit_inter": true,
+        "native_bg_color": "#FFFFFF",
+        "native_text_color": "#141414",
+        "inter_count": 3,
+        "back_count": 3,
+        "inter_loader_second": 0,
+        "ad_version_code": 1,
+        "is_custom_ad_on_off": true,
+        "custom_ad_priority": 0,
+        "custom_ad_url": ""
+    },
+    "google": {
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "reward": "ca-app-pub-3940256099942544/5224354917",
+        "native": "ca-app-pub-3940256099942544/2247696110",
+        "reward_interstitial": "admob_reward_interstitial",
+        "app_open": "ca-app-pub-3940256099942544/3419835294"
+    },
+    "facebook": {
+        "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "interstitial": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "reward": "fb_reward",
+        "reward_interstitial": "fb_reward_inter",
+        "native_banner": "fb_native_banner",
+        "medium_rectangle": "fb_medium_rec"
+    }
+}
